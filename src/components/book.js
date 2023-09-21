@@ -139,7 +139,7 @@ export default props => {
       });
       res = await res.text();
       console.log("Reserved: " + res);
-      window.location.href='/thankyou'
+      window.location.href='/Delici_restaurant_FE/thankyou'
     }
   };
 

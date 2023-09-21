@@ -6,7 +6,7 @@ const Navigation = () => {
       <nav className='navbar navbar-expand-md navbar-light  w-100' 
          >
         <div className='container-fluid af-max-width'>
-          <a href='/' className='navbar-brand af-brand-font fs-2 py-0 my-0'>
+          <a href='/Delici_restaurant_FE' className='navbar-brand af-brand-font fs-2 py-0 my-0'>
             <i className='fa fa-bullseye text-danger mr-2'></i>
             DELICI Restobar
           </a>
@@ -24,17 +24,17 @@ const Navigation = () => {
           >
             <ul className=' navbar-nav mx-auto ' >
               <li className='nav-item px-5 nav-link navbar-icon navbar-font'>
-                <a href='/' className='nav-link'>
+                <a href='/Delici_restaurant_FE' className='nav-link'>
                   Home
                 </a>
               </li>
               <li className='nav-item px-5 nav-link navbar-icon navbar-font'>
-                <a href='/menu' className='nav-link'>
+                <a href='/Delici_restaurant_FE/menu' className='nav-link'>
                   Menu
                 </a>
               </li>
               <li className='nav-item px-5 nav-link navbar-icon navbar-font'>
-                <a href='/reservation' className='nav-link'>
+                <a href='/Delici_restaurant_FE/reservation' className='nav-link'>
                   Reservation
                 </a>
               </li>

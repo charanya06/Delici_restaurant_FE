@@ -19,7 +19,7 @@ class Home extends Component {
               color="blue"
               className="book-table-btn"
               onClick={() => {
-                window.location.href = "/reservation";
+                window.location.href = "/Delici_restaurant_FE/reservation";
               }}
             >
               Book a Table
