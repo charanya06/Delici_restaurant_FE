@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Delici_restaurant_FE/precache-manifest.68b0e246879164e4c78b9a2bfc40b26b.js"
+  "/Delici_restaurant_FE/precache-manifest.e37e6704fe3e1a9f9595b97546ecd75f.js"
 );
 
 self.addEventListener('message', (event) => {

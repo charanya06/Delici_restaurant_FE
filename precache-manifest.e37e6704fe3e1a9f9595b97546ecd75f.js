@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dfbe145ac2320bd22be3a90b99ab72c5",
+    "revision": "90cf64b39f47440db827200a94ba8802",
     "url": "/Delici_restaurant_FE/index.html"
   },
   {
-    "revision": "889c828f78f9184a020e",
+    "revision": "6c91006713d7b2a69496",
     "url": "/Delici_restaurant_FE/static/css/2.5711c12b.chunk.css"
   },
   {
-    "revision": "786bb20f6138fd5cf9ac",
+    "revision": "f6f72f76f8399527f5c2",
     "url": "/Delici_restaurant_FE/static/css/main.fd371dff.chunk.css"
   },
   {
-    "revision": "889c828f78f9184a020e",
-    "url": "/Delici_restaurant_FE/static/js/2.13930442.chunk.js"
+    "revision": "6c91006713d7b2a69496",
+    "url": "/Delici_restaurant_FE/static/js/2.51c29171.chunk.js"
   },
   {
     "revision": "2d68ee0d980bfcc9117aaa1f4b99eb3b",
-    "url": "/Delici_restaurant_FE/static/js/2.13930442.chunk.js.LICENSE.txt"
+    "url": "/Delici_restaurant_FE/static/js/2.51c29171.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "786bb20f6138fd5cf9ac",
-    "url": "/Delici_restaurant_FE/static/js/main.60b4a485.chunk.js"
+    "revision": "f6f72f76f8399527f5c2",
+    "url": "/Delici_restaurant_FE/static/js/main.48964063.chunk.js"
   },
   {
     "revision": "4e0e34f265fae8f33b01b27ae29d9d6f",
-    "url": "/Delici_restaurant_FE/static/js/main.60b4a485.chunk.js.LICENSE.txt"
+    "url": "/Delici_restaurant_FE/static/js/main.48964063.chunk.js.LICENSE.txt"
   },
   {
     "revision": "b72c24d41ed8df1076e7",
